@@ -16,9 +16,7 @@ The problems I had were that I needed it to be in a modal, because of nested Scr
 ## Usage
 [![NPM Version](https://img.shields.io/npm/v/react-native-sectioned-multi-select.svg?style=flat)](https://www.npmjs.com/package/react-native-sectioned-multi-select)
 
-`npm i -S react-native-sectioned-multi-select`
-
-react-native-vector-icons package is required, [set it up](https://github.com/oblador/react-native-vector-icons) if you haven't already.
+`npm i -S expo-sectioned-multi-select`
 
 Required props:  
 `items` | array  
@@ -30,7 +28,7 @@ import React, { Component } from 'react';
 import {
   View
 } from 'react-native';
-import SectionedMultiSelect from 'react-native-sectioned-multi-select';
+import SectionedMultiSelect from 'expo-sectioned-multi-select';
 
 const icon = require('./icon.png');
 
