@@ -1,6 +1,6 @@
 {
-  "name": "react-native-sectioned-multi-select",
-  "version": "0.6.3",
+  "name": "expo-sectioned-multi-select",
+  "version": "0.0.1",
   "description": "a multi (or single) select component with support for sub categories, search, chips.",
   "main": "index.js",
   "directories": {
@@ -19,7 +19,6 @@
   },
   "peerDependencies": {
     "prop-types": "^15.6.0",
-    "react-native-vector-icons": "^4.1.1"
   },
   "repository": {
     "type": "git",
