@@ -1,6 +1,6 @@
 {
   "name": "expo-sectioned-multi-select",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a multi (or single) select component with support for sub categories, search, chips.",
   "main": "index.js",
   "directories": {
